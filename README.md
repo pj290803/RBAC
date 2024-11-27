@@ -34,13 +34,16 @@ Prerequisites
 Ensure the following are installed before proceeding:
 
 Node.js (v16+), npm (v8+), Git
+
+
+
+
 Steps to Run the Project
 Clone the repository:
+git clone https://github.com/pj290803/RBAC.git  
+cd RBAC  
 
-bash
-Copy code
-git clone https://github.com/Atmalviya/VRV-Security-Assignment.git  
-cd VRV-Security-Assignment  
+
 Install dependencies:
 
 bash
